@@ -1,0 +1,325 @@
+body{
+    background-color: black ;
+}
+
+#TitoloP{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 53px;
+    color:ghostwhite;
+    font-family: "Bebas Neue";
+    margin-bottom: 35px;
+    text-shadow: 0px 0px 15px white;
+    border-style: dotted;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+#p1{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
+#p2{
+    text-align: left;
+     color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
+#idg{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 7px tomato;
+    color:tomato;
+}
+
+#idg:visited{
+    color:skyblue;
+    text-shadow: 0px 0px 7px skyblue;
+    
+}
+
+#idg:hover{
+    color:purple;
+    text-shadow:0px 0px 7px purple;
+
+    
+}
+
+#ti{
+    text-align: center;
+    color:white;
+    font-size: 34px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
+#f1{
+    border-radius: 50px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin:0 auto;
+    
+    
+    
+    
+
+}
+
+
+#tau{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+
+
+}
+
+#tv{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+
+
+
+
+
+
+
+}
+
+#vid{
+    border-radius: 50px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin:0 auto;
+
+
+
+}
+
+#tf{
+
+    text-align: center;
+    color:white;
+    font-size: 28px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+
+
+
+
+
+
+}
+
+#nome{
+
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+
+}
+
+#fname{
+      text-align: left;
+    color:black;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    
+   
+
+
+
+
+
+}
+
+#cognome{
+
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 24px;
+    margin-right: 21px;
+    
+
+
+}
+
+#lname{
+    text-align: left;
+    color:black;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: -10px;
+    margin-right: 21px;
+        border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+
+    
+
+
+
+
+
+}
+
+
+
+
+
+
+#sb{
+   text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 21px;
+    margin-right: 21px;
+
+    background-color: darkgray;
+
+
+
+
+}
+
+#password{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 24px;
+    margin-right: 21px;
+
+
+
+
+}
+
+#pass{
+     text-align: left;
+    color:black;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: -10px;
+    margin-right: 21px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+#mail{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 24px;
+    margin-right: 21px;
+
+
+
+
+
+
+}
+
+#email{
+    text-align: left;
+    color:black;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: -10px;
+    margin-right: 21px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+
+
+
+
+
+}
+
+#data{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: 24px;
+    margin-right: 21px;
+
+
+
+
+
+
+}
+
+#date{
+    text-align: left;
+    color:black;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    margin-left: -10px;
+    margin-right: 21px;
+    border-radius: 10px;
+
+
+
+
+
+
+}
+
+#compila{
+    background-color:black;
+    border-radius: 30px;
+    border-style: dotted;
+    border-color:white;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+
+    display: block;
+    margin:0 auto;
+
+
+
+
+}
+
+
+
+
+
+
